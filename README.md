@@ -3,7 +3,7 @@ Meu mundo
 
 - 👋  Olá! Eu sou a Cicera Ribeiro
 - 👀 I’m interested in  aprender , desenvolver e crescer neste universo da programação.
-- 🌱 No momento, trabalho como freelancer.
+- 🌱 Atualmente, trabalho como freelancer.
 
   <div>
     <a href="https://github.com/Cícera1987">
