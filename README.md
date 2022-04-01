@@ -5,19 +5,21 @@ Meu mundo
 - 👀 I’m interested in  aprender , desenvolver e crescer neste universo da programação.
 - 🌱 I’m currently learning , Javascript e Typescrip.
 
--<div>
-<a href="https://github.com/Cícera1987">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cicera1987&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicera1987&layout=compact&langs_count=7&theme=dracula"/>
+  <div>
+    <a href="https://github.com/Cícera1987">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cicera1987&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicera1987&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-
-  <div style="display: inline_block"><br>
-    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-          
+### Estou aprendendo!
+  <div style="display: inline_block">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
   </div>
     
   ### Contato
