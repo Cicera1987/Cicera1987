@@ -32,6 +32,6 @@ Meu mundo
     <a href= "https://web.telegram.org/z/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 </div>
   
-  <div>
-    ![Snake animation](https://github.com/Cícera197/Cícera1987/blob/output/github-contribution-grid-snake.svg)
-  </div>
+  
+    [Snake animation](https://github.com/Cícera197/Cícera1987/blob/output/github-contribution-grid-snake.svg)
+
