@@ -31,7 +31,5 @@ Meu mundo
     <a href="https://www.linkedin.com/in/cícera-ribeiro-5201b8116/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href= "https://web.telegram.org/z/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 </div>
-  
-  
-    ![Snake animation](https://github.com/Cicera197/Cicera1987/blob/output/github-contribution-grid-snake.svg)
+
 
