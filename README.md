@@ -33,5 +33,5 @@ Meu mundo
 </div>
   
   
-    ![Snake animation](https://github.com/Cícera197/Cícera1987/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/Cicera197/Cicera1987/blob/output/github-contribution-grid-snake.svg)
 
