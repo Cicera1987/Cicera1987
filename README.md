@@ -4,7 +4,7 @@ Meu mundo
 - 👋  Olá! Eu sou a Cicera Ribeiro
 - 👀 I’m interested in  aprender , desenvolver e crescer neste universo da programação.
 - 🌱 I’m currently learning , Javascript e Typescrip.
-- 
+
 -<div>
 <a href="https://github.com/Cícera1987">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cicera1987&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,7 @@ Meu mundo
   
   ### Habilidades 
   <div>
-    https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+   <a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   </div>
   
   <div>
