@@ -1,17 +1,22 @@
-# CiceraRibeiro
-Meu mundo
+# Cicera Ribeiro
 
-- 👋  Olá! Eu sou a Cicera Ribeiro
-- 👀 I’m interested in  aprender , desenvolver e crescer neste universo da programação.
-- 🌱 Atualmente, trabalho como freelancer.
+Seja bem vindo(a) ao meu GitHub;
 
-  <div>
-    <a href="https://github.com/Cícera1987">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicera1987&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cicera1987&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+- 👋  Olá! Eu sou estudante de ADS.
+- 👀 Tenho interesse em aprender , desenvolver e crescer neste universo da programação.
+- ⚓ Aqui você vai encontrar alguns dos meus projetos.
+- 🌱 Atualmente, trabalho Home-office como estagiária Front-end.
   
-### Estou aprendendo!
+  
+### Status
+ <div>
+    <a href="https://github.com/Cícera1987"> 
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cicera1987&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicera1987&layout=compact&langs_count=7&theme=dracula"/>  
+</div>
+
+  ### Estou aprendendo!
+  
   <div style="display: inline_block">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/>
