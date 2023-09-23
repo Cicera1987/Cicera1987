@@ -3,9 +3,9 @@
 Seja bem vindo(a) ao meu GitHub;
 
 - 👋  Olá! Eu sou estudante de ADS.
-- 👀 Tenho interesse em aprender , desenvolver e crescer neste universo da programação.
+- 👀 Tenho interesse me desenvolver e crescer neste universo da programação.
 - ⚓ Aqui você vai encontrar alguns dos meus projetos.
-- 🌱 Atualmente, trabalho Home-office como estagiária Front-end.
+- 🌱 Atualmente, atuo como Front-end.
   
   
 ### Status
