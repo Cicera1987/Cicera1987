@@ -4,8 +4,8 @@
 Seja bem vindo(a) ao meu GitHub;
 
 - 👋 Olá! Eu sou desenvolvedora de software com foco em front-end com reactjs.
-- 👀 Hoje de olho no mercado tenho buscado me aperfeiçar como fullstack,
-- 👀 aumentando assim meu leque de conhecimento, como back-end com java/spring boot.
+- 👀 Hoje de olho no mercado tenho buscado me aperfeiçar como fullstack.
+- 💡  Aumentando assim meu leque de stacks, como back-end com java/spring boot.
 - ⚓ Aqui você vai encontrar alguns dos meus projetos.
 - 🌱 Atualmente, atuo como Front-end na emprea Ubistart, uma fabrica de software.
   
