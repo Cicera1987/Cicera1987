@@ -3,10 +3,10 @@
 
 Seja bem vindo(a) ao meu GitHub;
 
-- 👋  Olá! Eu sou estudante de ADS.
-- 👀 Tenho interesse me desenvolver e crescer neste universo da programação.
+- 👋 Olá! Eu sou desenvolvedora de software com foco em front-end com reactjs.
+- 👀 Hoje de olho no mercado tenho buscado me aperfeiçar como fullstack estudando back-end com java e spring boot.
 - ⚓ Aqui você vai encontrar alguns dos meus projetos.
-- 🌱 Atualmente, atuo como Front-end.
+- 🌱 Atualmente, atuo como Front-end na emprea Ubistart, uma fabrica de software.
   
   
 
