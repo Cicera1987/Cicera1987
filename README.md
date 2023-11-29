@@ -9,14 +9,9 @@ Seja bem vindo(a) ao meu GitHub;
 - 🌱 Atualmente, atuo como Front-end.
   
   
-### Status
- <div>
-    <a href="https://github.com/Cícera1987"> 
-       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cicera1987&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicera1987&layout=compact&langs_count=7&theme=dracula"/>  
-</div>
 
-  ### Estou aprendendo!
+
+  ### Lingugens!
   
   <div style="display: inline_block">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
@@ -28,7 +23,7 @@ Seja bem vindo(a) ao meu GitHub;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
   </div>
     
-  ### Contato
+  ### Sinta-se a vontade para entrar em contato.
   <div>
     <a href="https://instagram.com/cicribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/maccicera" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -37,6 +32,13 @@ Seja bem vindo(a) ao meu GitHub;
     <a href="https://www.linkedin.com/in/cícera-ribeiro-5201b8116/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href= "https://web.telegram.org/z/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
      <a href= "https://cicera1987.github.io/Site/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+</div>
+
+### Status
+ <div>
+    <a href="https://github.com/Cícera1987"> 
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cicera1987&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicera1987&layout=compact&langs_count=7&theme=dracula"/>  
 </div>
 
 
