@@ -7,7 +7,7 @@ Seja bem vindo(a) ao meu GitHub;
 - 👀 Hoje de olho no mercado busco me aprimorar como fullstack.
 - 💡  Aumentando assim meu leque de stacks,com java e spring boot.
 - ⚓ Aqui você vai encontrar alguns dos meus projetos.
-- 🌱 Atualmente, atuo como Front-end na emprea Ubistart, uma fabrica de software.
+- 🌱 Atualmente, sou Front-end na emprea Ubistart, uma fabrica de software.
   
   
 
