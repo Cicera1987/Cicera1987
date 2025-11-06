@@ -3,11 +3,11 @@
 
 Seja bem vindo(a) ao meu GitHub;
 
-- 👋 Olá! Eu sou desenvolvedora de software com foco em front-end com reactjs, Nextjs, Vue.js, Angular.e Typescript.
-- 👀 Hoje de olho no mercado busco me aprimorar como fullstack.
-- 💡  Aumentando assim meu leque de stacks,com java e spring boot.
-- ⚓ Aqui você vai encontrar alguns dos meus projetos.
-- 🌱 Atualmente, sou Fullstak Develop...
+- 👋 Olá! Eu sou desenvolvedora de software com foco em front-end com reactjs, Nextjs, Vue.js, Angular e Typescript
+- 👀 Hoje de olho no mercado busco me aprimorar como fullstack
+- 💡  Aumentando assim meu leque de stacks,com java e spring boot
+- ⚓ Aqui você vai encontrar alguns dos meus projetos
+- 🌱 Atualmente, sou Desenvolvedora FullStack
   
   
 
